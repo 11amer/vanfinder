@@ -2,3 +2,4 @@
 .staticrypt-broker.json
 .staticrypt-broker.*
 .epicvin_salt
+/broker/
